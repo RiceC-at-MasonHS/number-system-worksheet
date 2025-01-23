@@ -4,7 +4,7 @@ A script to pair with a math worksheet, in the style of first-grade math (but cu
 
 ## Prepare a Worksheet
 
-As a teacher, you will need to find your own math-worksheet template. There are lots of good ones online, but often they are protected by a minimal fee on websites like [teacherspayteachers.com/](https://www.teacherspayteachers.com/browse/elementary/1st-grade/math). 
+As a teacher, you will need to find your own math-worksheet template. There are lots of good ones online, but often they are protected by a minimal fee on websites like [teacherspayteachers.com](https://www.teacherspayteachers.com/browse/elementary/1st-grade/math). 
 
 The script generates 12 random addition problems you can drop-in to any worksheet template, each with two numbers that sum to 20 or less. *(I've found putting straightforward limits on possible-answers for these problems helps students approach them with more confidence.)*
 
